@@ -1,6 +1,6 @@
 # Skill-forge
 
-A simple platform where people can **learn, share, and develop skills together**. 
+A simple platform where people can **learn, share, and develop skills together**.
 
 ---
 
